@@ -5,6 +5,7 @@ const readline = require('readline-sync');
 const nome = readline.question("Digite seu nome: ");
 console.log("Olá,", nome);
 
+
 // função menu
 function menu() {
   console.log("\n[1] Cadastrar  [2] Listar  [0] Sair");
