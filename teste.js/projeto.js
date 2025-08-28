@@ -12,3 +12,4 @@ function menu() {
 }
 
 console.log("Opção escolhida:", menu());
+
